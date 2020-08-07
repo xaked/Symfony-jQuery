@@ -1,5 +1,5 @@
 {
-    "name": "kvdh/symfony-jquery",
+    "name": "xaked/symfony-jquery",
     "description": "jQuery vendor package for Symfony 2.x",
     "keywords": ["jquery","symfony"],
     "homepage": "https://github.com/xaked/Symfony-jQuery",
@@ -17,7 +17,7 @@
         "symfony/framework-bundle": "2.*"
     },
     "autoload": {
-        "psr-0": { "Kvdh\\jQueryBundle": "" }
+        "psr-0": { "xaked\\jQueryBundle": "" }
     },
-    "target-dir": "Kvdh/jQueryBundle"
+    "target-dir": "xaked/jQueryBundle"
 }
